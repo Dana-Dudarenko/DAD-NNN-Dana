@@ -98,6 +98,10 @@ Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
 - **Ce que j'ai fait :** J'ai continué à travailler sur la partie théorique de mon ARG : le scénario, l'histoire et sa signification. J'ai essayé d'organiser les idées que j'avais précédemment notées dans mon document Google Docs et de les développer afin de mieux clarifier ma vision du résultat final.
 J'ai créé un concept art de Pyramind à partir de photos réelles de Dnipro. J'ai également dessiné un schéma des cinq faces de la pyramide, qui représentent cinq perspectives différentes nous permettant de mieux comprendre cet univers.
+
+![Concept art 1](images/consept-art1.PNG)
+![Consept art 2](images/consept-art2.PNG)
+
 - **Problèmes rencontrés :**
 - **Prochaine étape :**
 - **Captures / liens :**
