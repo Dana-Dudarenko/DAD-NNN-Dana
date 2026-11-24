@@ -119,7 +119,6 @@ Dans cette vidéo, les membres de la société vont critiquer vivement une nouve
 
 Sur le site de l'IPCS2, on découvre quelque chose qui ressemble à GeoCities. Il y a une page d'accueil principale avec une description et des règles\*, ainsi que plusieurs pages créées par les membres de la communauté et présentant leurs théories. On y trouve également un chat et un onglet d'inscription.
 
-<div style="margin-left: 40px;"> 
 Règles :
 
 \- Respectez les autres.
@@ -128,7 +127,7 @@ Règles :
 
 \- Votre page doit respecter le code vestimentaire.
 
-\- Pour interagir avec les autres dans le chat ou commenter leurs publications, vous devez être inscrit. Cependant, à la suite de la dernière attaque informatique, la fonction d'inscription est actuellement indisponible. Les administrateurs demandent donc aux nouveaux membres de la communauté de faire preuve de patience. </div>
+\- Pour interagir avec les autres dans le chat ou commenter leurs publications, vous devez être inscrit. Cependant, à la suite de la dernière attaque informatique, la fonction d'inscription est actuellement indisponible. Les administrateurs demandent donc aux nouveaux membres de la communauté de faire preuve de patience. 
 
 Si vous cliquez sur l'onglet « Inscription », vous serez redirigé vers un écran affichant le message : « Temporairement fermé :( ».
 
