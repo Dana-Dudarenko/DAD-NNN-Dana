@@ -97,7 +97,9 @@ Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
 ### 24/11/2026
 
-- **Ce que j'ai fait :** J'ai continué à travailler sur la partie théorique de mon ARG : le scénario, l'histoire et sa signification. J'ai essayé d'organiser les idées que j'avais précédemment notées dans mon document Google Docs et de les développer afin de mieux clarifier ma vision du résultat final.
+- **Ce que j'ai fait :**
+
+ J'ai continué à travailler sur la partie théorique de mon ARG : le scénario, l'histoire et sa signification. J'ai essayé d'organiser les idées que j'avais précédemment notées dans mon document Google Docs et de les développer afin de mieux clarifier ma vision du résultat final.
 J'ai créé un concept art de Pyramind à partir de photos réelles de Dnipro. J'ai également dessiné un schéma des cinq faces de la pyramide, qui représentent cinq perspectives différentes nous permettant de mieux comprendre cet univers.
 
 ![Concept art 1](images/consept-art1.PNG)
@@ -105,7 +107,9 @@ J'ai créé un concept art de Pyramind à partir de photos réelles de Dnipro. J
 
 - **Problèmes rencontrés :**
 - **Prochaine étape :**
-- **Captures / liens :** Dossier Base theoretique/Scenario https://github.com/Dana-Dudarenko/DAD-NNN-Dana/blob/main/Base%20theoretique%20-%20Scenario.md
+- **Captures / liens :** 
+Dossier **Base theoretique/Scenario**
+https://github.com/Dana-Dudarenko/DAD-NNN-Dana/blob/main/Base%20theoretique%20-%20Scenario.md
 
 ## Journal de bord
 
