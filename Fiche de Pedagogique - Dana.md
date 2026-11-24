@@ -32,15 +32,16 @@ Poursuivre un master dans le domaine du DAD, soit dans une école d’art comme 
 
 ## Projets
 
-### Projet 1
-
 #### Sujet du projet
 
 - **Titre du projet :*Pyramind*
-- **Description du projet (environ 150 mots) :** **Pyramind** est un projet d'ARG (*Alternate Reality Game*) qui explore les liens entre la mémoire, le temps, le traumatisme et la perception de la réalité.
+- **Description du projet (environ 150 mots) :**
 
-For this ARG I want to use such medias as site web, email bot, video games, video, audio, social media, maybe controler alternative and geohunt if I find a way of how to implement it.
+**Pyramind** est un projet d'ARG (*Alternate Reality Game*) qui explore les liens entre la mémoire, le temps, le traumatisme et la perception de la réalité.
 
+Pour cet ARG, je souhaite utiliser différents types de médias : sites web, bots de messagerie électronique, jeux vidéo, vidéos, fichiers audio, réseaux sociaux, et peut-être des contrôleurs alternatifs (*alternative controllers*) ainsi que des chasses au trésor géolocalisées (*geohunts*), si je trouve un moyen de les mettre en place.
+
+Tous ces éléments seront reliés entre eux par des énigmes cryptiques et des codes cachés. Le projet demandera aux joueurs de s'impliquer, de faire preuve de patience et peut-être même d'une certaine obsession.
 
 #### Thématiques de recherche
 
