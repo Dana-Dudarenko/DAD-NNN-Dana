@@ -35,6 +35,8 @@ Nous découvrons la réalité de cet univers et les différentes positions adopt
 * **Population** — Des gens ordinaires qui mènent leur vie quotidienne dans un monde qui ne l'est pas.  
 * **Pyramind** — ???
 
+![Consept art 3](images/consept-art3.PNG)
+
 #### **Gouvernement**
 
 Les institutions gouvernementales transmettent la position officielle de l'État : tout va bien et la situation est sous contrôle. Cette communication se fait par le biais de canaux officiels : chaînes d'information, site web gouvernemental, etc.
