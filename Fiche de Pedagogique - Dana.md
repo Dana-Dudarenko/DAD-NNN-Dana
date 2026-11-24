@@ -2,7 +2,7 @@
 
 ## Informations étudiant·e
 
-- **Nom :** Dudarenko
+- **Nom :** DUDARENKO
 
 - **Prénom :** Dana
 
@@ -18,15 +18,25 @@ Poursuivre un master dans le domaine du DAD, soit dans une école d’art comme 
 
 ### Compétences
 
-**CODE CRÉATIF** 12 (plus ou moins à l’aise avec HTML et CSS, avec un niveau intermédiaire en JavaScript. J’ai également de l’expérience avec Godot et C#, mais j’ai principalement utilisé l’IA pour m’aider dans ces domaines, donc je ne suis pas certaine de ce que je serais capable de faire sans elle. En revanche, je sais que j’ai de bonnes capacités de raisonnement logique. J’ai simplement besoin de prendre le temps d’apprendre sérieusement les langages de programmation lorsque j’en aurai l’occasion, comme avec cette formation.)
+**CODE CRÉATIF** 12 
 
-**GIT ET VERSIONING** 15 (Je ne suis pas certaine, mais je ne pense pas avoir de difficultés à comprendre le fonctionnement de Git.)
+>Plus ou moins à l’aise avec HTML et CSS, avec un niveau intermédiaire en JavaScript. J’ai également de l’expérience avec Godot et C#, mais j’ai principalement utilisé l’IA pour m’aider dans ces domaines, donc je ne suis pas certaine de ce que je serais capable de faire sans elle. En revanche, je sais que j’ai de bonnes capacités de raisonnement logique. J’ai simplement besoin de prendre le temps d’apprendre sérieusement les langages de programmation lorsque j’en aurai l’occasion, comme avec cette formation.
 
-**INTERACTIVITÉ ET RENDU TEMPS RÉEL** 15 (J’ai déjà réalisé plusieurs projets interactifs, principalement des jeux vidéo. En revanche, je ne suis pas certaine de comprendre ce que signifie « en temps réel » dans ce contexte.)
+**GIT ET VERSIONING** 15 
 
-**INSTALLATION ET MISE EN ESPACE** 10 (Je ne sais pas vraiment comment répondre à cette question. Mes présentations sont généralement assez simples et ont surtout un objectif précis : montrer ce que j’ai réalisé. La mise en page est habituellement liée au processus de création. Je ne sais pas encore comment présenter ce projet de manière intéressante sans avoir recours à une dizaine d’écrans différents.)
+>Je ne suis pas certaine, mais je ne pense pas avoir de difficultés à comprendre le fonctionnement de Git.
 
-**PRÉSENTATION ET ARGUMENTATION** 12 (Si je suis bien préparée, je pense que je m’en sors plutôt bien, ou du moins aussi bien que possible. Je n’aime pas lire un texte pendant une présentation, car cela casse un peu le naturel et le rythme. Mais le français n’étant pas ma langue maternelle, il m’arrive parfois d’oublier certains mots, d’utiliser des anglicismes ou des formulations beaucoup plus simples que je ne le voudrais. Il m’arrive aussi de perdre le fil de mon raisonnement en parlant, mais c’est plutôt un problème personnel. Le fait de devoir m’exprimer en français et le stress ne font qu’aggraver les choses.)
+**INTERACTIVITÉ ET RENDU TEMPS RÉEL** 15 
+
+>J’ai déjà réalisé plusieurs projets interactifs, principalement des jeux vidéo. En revanche, je ne suis pas certaine de comprendre ce que signifie « en temps réel » dans ce contexte.
+
+**INSTALLATION ET MISE EN ESPACE** 10 
+
+>Je ne sais pas vraiment comment répondre à cette question. Mes présentations sont généralement assez simples et ont surtout un objectif précis : montrer ce que j’ai réalisé. La mise en page est habituellement liée au processus de création. Je ne sais pas encore comment présenter ce projet de manière intéressante sans avoir recours à une dizaine d’écrans différents.
+
+**PRÉSENTATION ET ARGUMENTATION** 12 
+
+>Si je suis bien préparée, je pense que je m’en sors plutôt bien, ou du moins aussi bien que possible. Je n’aime pas lire un texte pendant une présentation, car cela casse un peu le naturel et le rythme. Mais le français n’étant pas ma langue maternelle, il m’arrive parfois d’oublier certains mots, d’utiliser des anglicismes ou des formulations beaucoup plus simples que je ne le voudrais. Il m’arrive aussi de perdre le fil de mon raisonnement en parlant, mais c’est plutôt un problème personnel. Le fait de devoir m’exprimer en français et le stress ne font qu’aggraver les choses.
 
 
 
@@ -81,10 +91,25 @@ Tous ces éléments seront reliés entre eux par des énigmes cryptiques et des 
 ### Planning de travail
 
 - Établissez un planning des étapes clés de votre projet :
-  - **Étape 1 :** date et description
-  - **Étape 2 :** date et description
-  - **Étape 3 :** date et description
+  - **Étape 1 :** *25/11 - 27/11* Préparation
+  - **Étape 2 :** *30/11 - 07/12* Travail sur le code et les vidéos
+  - **Étape 3 :** *08/12 - 11/12* Dernières retouches et contrôle / rendu
 
+  ##
+
+  - **25/11** – Terminer le scénario, créer davantage de concept arts. Créer les éléments visuels nécessaires pour les sites (GIFs, images métriques, maquettes), rassembler des références.
+  - **27/11** – Créer les éléments visuels nécessaires pour les sites (GIFs, images métriques, maquettes), commencer à créer les sites.
+  - **30/11** – Créer les sites.
+  - **01/12** – Créer le bot mail.
+  - **02/12** – Créer le jeu.
+  - **04/12** – Créer les éléments visuels pour le fond de la vidéo.
+  - **07/12** – Créer les vidéos.
+  - **08/12** – ?
+  - **09/12** – Contrôle.
+  - **11/12** – Rendu.
+
+> Ce travail fera finalement partie de mon diplôme et je ne peux pas réalistement réaliser tout ce que j'ai prévu. Je dois donc m'arrêter à un certain point pour ce cours, afin de pouvoir réellement terminer tout cela dans les délais et éviter que ma présentation soit désorganisée.
+Je pense qu'une ou deux vidéos, quatre sites, un jeu et un bot mail pourraient suffire. Cela permettrait également d'avoir une présentation visuellement intéressante.
 
 
 ## Commentaires et questions
@@ -99,17 +124,17 @@ Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
 - **Ce que j'ai fait :**
 
- J'ai continué à travailler sur la partie théorique de mon ARG : le scénario, l'histoire et sa signification. J'ai essayé d'organiser les idées que j'avais précédemment notées dans mon document Google Docs et de les développer afin de mieux clarifier ma vision du résultat final.
+J'ai continué à travailler sur la partie théorique de mon ARG : le scénario, l'histoire et sa signification. J'ai essayé d'organiser les idées que j'avais précédemment notées dans mon document Google Docs et de les développer afin de mieux clarifier ma vision du résultat final.
 J'ai créé un concept art de Pyramind à partir de photos réelles de Dnipro. J'ai également dessiné un schéma des cinq faces de la pyramide, qui représentent cinq perspectives différentes nous permettant de mieux comprendre cet univers.
 
 ![Concept art 1](images/consept-art1.PNG)
 ![Consept art 2](images/consept-art2.PNG)
 
-- **Problèmes rencontrés :**
-- **Prochaine étape :**
+- **Problèmes rencontrés :** Aucun problème particulier
+- **Prochaine étape :** Terminer le scénario, créer davantage de concept arts. Créer les éléments visuels nécessaires pour les sites (GIFs, images métriques, maquettes), rassembler des références.
 - **Captures / liens :** 
-Dossier **Base theoretique/Scenario**
-https://github.com/Dana-Dudarenko/DAD-NNN-Dana/blob/main/Base%20theoretique%20-%20Scenario.md
+  - Dossier 
+  [Base theoretique/Scenario](https://github.com/Dana-Dudarenko/DAD-NNN-Dana/blob/main/Base%20theoretique%20-%20Scenario.md)
 
 ## Journal de bord
 
