@@ -20,7 +20,7 @@ Poursuivre un master dans le domaine du DAD, soit dans une école d’art comme 
 
 **CODE CRÉATIF** 12 (plus ou moins à l’aise avec HTML et CSS, avec un niveau intermédiaire en JavaScript. J’ai également de l’expérience avec Godot et C#, mais j’ai principalement utilisé l’IA pour m’aider dans ces domaines, donc je ne suis pas certaine de ce que je serais capable de faire sans elle. En revanche, je sais que j’ai de bonnes capacités de raisonnement logique. J’ai simplement besoin de prendre le temps d’apprendre sérieusement les langages de programmation lorsque j’en aurai l’occasion, comme avec cette formation.)
 
-**GIT ET VERSIONING** ? (Je ne suis pas certaine, mais je ne pense pas avoir de difficultés à comprendre le fonctionnement de Git. En revanche, je n’ai aucune idée de ce que signifie exactement le terme « versioning ».)
+**GIT ET VERSIONING** 15 (Je ne suis pas certaine, mais je ne pense pas avoir de difficultés à comprendre le fonctionnement de Git.)
 
 **INTERACTIVITÉ ET RENDU TEMPS RÉEL** 15 (J’ai déjà réalisé plusieurs projets interactifs, principalement des jeux vidéo. En revanche, je ne suis pas certaine de comprendre ce que signifie « en temps réel » dans ce contexte.)
 
