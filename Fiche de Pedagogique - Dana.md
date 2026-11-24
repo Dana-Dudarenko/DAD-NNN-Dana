@@ -34,7 +34,7 @@ Poursuivre un master dans le domaine du DAD, soit dans une école d’art comme 
 
 #### Sujet du projet
 
-- **Titre du projet :*Pyramind*
+- **Titre du projet : **Pyramind**
 - **Description du projet (environ 150 mots) :**
 
 **Pyramind** est un projet d'ARG (*Alternate Reality Game*) qui explore les liens entre la mémoire, le temps, le traumatisme et la perception de la réalité.
