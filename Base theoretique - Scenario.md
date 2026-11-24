@@ -109,8 +109,6 @@ Insider rejette l'humanité et croit qu'il ne peut trouver la paix que dans la v
 
 **// Pour plus tard :** ajouter un point narratif où l'IPCS2 coupe les ponts avec Insider après qu'une de ses expériences a psychologiquement traumatisé l'un de ses membres.
 
-## 
-
 ## **Scénario**
 
 Tout devrait commencer sur TikTok, avec une vidéo publiée par l'IPCS2 à l'occasion de l'anniversaire des 20 ans de l'Apparition — le jour où Pyramind est apparu dans le ciel, au-dessus du fleuve Dnipro.

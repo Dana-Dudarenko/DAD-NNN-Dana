@@ -104,7 +104,7 @@ J'ai créé un concept art de Pyramind à partir de photos réelles de Dnipro. J
 
 - **Problèmes rencontrés :**
 - **Prochaine étape :**
-- **Captures / liens :**
+- **Captures / liens :** Dossier Base theoretique/Scenario https://github.com/Dana-Dudarenko/DAD-NNN-Dana/blob/main/Base%20theoretique%20-%20Scenario.md
 
 ## Journal de bord
 
