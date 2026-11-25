@@ -117,7 +117,7 @@ Dans cette vidéo, les membres de la société vont critiquer vivement une nouve
 
 À partir de là, deux possibilités s'offrent à nous → suivre un lien dans la description qui nous redirige vers leur site web, ou → rechercher nous-mêmes leur site officiel.
 
-Sur le site de l'IPCS2, on découvre quelque chose qui ressemble à GeoCities. Il y a une page d'accueil principale avec une description et des règles\*, ainsi que plusieurs pages créées par les membres de la communauté et présentant leurs théories. On y trouve également un chat et un onglet d'inscription.
+→  Sur le site de l'IPCS2, on découvre quelque chose qui ressemble à GeoCities. Il y a une page d'accueil principale avec une description et des règles\*, ainsi que plusieurs pages créées par les membres de la communauté et présentant leurs théories. On y trouve également un chat et un onglet d'inscription.
 
 Règles :
 
@@ -129,7 +129,45 @@ Règles :
 
 \- Pour interagir avec les autres dans le chat ou commenter leurs publications, vous devez être inscrit. Cependant, à la suite de la dernière attaque informatique, la fonction d'inscription est actuellement indisponible. Les administrateurs demandent donc aux nouveaux membres de la communauté de faire preuve de patience. 
 
-Si vous cliquez sur l'onglet « Inscription », vous serez redirigé vers un écran affichant le message : « Temporairement fermé :( ».
+Si vous cliquez sur l'onglet « Inscription », vous serez redirigé vers un écran affichant le message : « *Temporarily closed :(* ».
+
+Si nous consultons le site, nous trouverons environ quatre pages encore accessibles. En bas de celles-ci, on pourra lire le message suivant :
+
+*All pages will be back up eventually! We just need a little time to restore the data that got damaged in the attack. Sorry about the mess, guys. We're doing our best, so please bear with us! :(*
+
+>La cyberattaque va me servir d'excuse pour gagner du temps et réduire la quantité de travail que je dois réaliser.
+
+Dans le chat, nous verrons cinq personnages actifs 
+
+>peut-être plus, mais je n'ai assez d'énergie que pour créer quatre vrais personnages + un autre. Les autres seront simplement des personnages d'arrière-plan
+
+Ils discuteront de la violence de l'attaque, de la fermeture de nombreux sites, y compris AO3, et se demanderont si les Russes sont réellement capables de faire une telle chose, ou si cela vient des gouvernements du monde entier. Ou de Pyramind ?
+
+L'un des utilisateurs, qui n'a pas de photo de profil, fera remarquer à quel point le site du NIEARU est étrange et proposera aux autres d'aller y jeter un coup d'œil.
 
 Référence visuelle : Hypnospace Outlaw
 
+→ Si nous décidons de consulter le site officiel du S3AOU, nous trouverons une page d'accueil présentant simplement la mission du service, ainsi qu'une petite section d'actualités.
+
+Celle-ci rappellera aux visiteurs l'anniversaire des 20 ans de l'Apparition et parlera également de la récente cyberattaque russe visant les infrastructures gouvernementales en ligne, ainsi que différents sites web à travers le monde.
+
+Le site expliquera que, malheureusement, la plupart des liens ne fonctionnent plus, tout comme certains services en ligne proposés par le gouvernement. Nous verrons également une mention du site du NIEARU, dont le contenu a été complètement corrompu. Le S3AOU expliquera qu'ils font de leur mieux pour résoudre le problème le plus rapidement possible.
+
+Si nous suivons le lien vers le site du NIEARU, nous tomberons sur un véritable amas de lettres. Mais en regardant de plus près, nous remarquerons que trois mots restent lisibles : « use », « every » et « 3d ». Il s'agit d'une instruction.
+
+En prenant chaque troisième lettre, nous pourrons reconstituer une adresse e-mail. Si nous lui envoyons un message, nous recevrons une réponse automatique contenant quelque chose comme :
+
+« *Hello! Thank you for your message. I received it and will answer when I have time.*
+*While waiting, can you answer those questions for me?*
+
+*Do we meet  before ? Do I know your name? Do you know mine? Do you love looking for the truth? What month  is that?*
+
+*-I.* »
+ 
+Si nous retournons sur le forum et examinons les pseudonymes étranges des utilisateurs sans photo de profil, qui suggèrent tous de consulter le site du NIEARU, nous comprendrons qu'il s'agit d'un code à envoyer par e-mail.
+
+Si nous le faisons, nous recevrons automatiquement un dossier depuis cette adresse e-mail. Il contiendra un jeu des 10 différences, ainsi que peut-être quelques images pouvant nous aider à résoudre une autre énigme.
+
+*Quelque chose, quelque chose : la résolution de cette énigme nous donnera un lien vers un site web, ainsi qu'un code à saisir pour y accéder.*
+
+Nous entrons sur le site et notre enquête se termine là.
