@@ -131,7 +131,7 @@ Aujourd’hui, j’ai mis à jour mon scénario et j’ai commencé à travaille
 
 J’ai créé un logo officiel pour ce site, en m’inspirant du style graphique typique des logos institutionnels ukrainiens.
 
-![Concept art 4](images/consept-art4.PNG)
+![Concept art 4](images/consept-art4.png)
 
 J’ai aussi demandé à un ami s’il aimerait participer à mon ARG. Je vais créer un site/forum pour les membres d’une communauté conspirationniste (IPCSS), et j’aurai besoin d’utilisateurs actifs avec des personnalités bien définies. Je me suis dit que le plus simple serait de demander à des amis que je connais déjà et auxquels j’ai facilement accès, de m’inspirer de leur personnalité et de leur demander conseil pour créer des personnages intéressants dans cet univers alternatif. En gros, ce seront des versions alternatives d’eux-mêmes, mais il faut imaginer que la plupart d’entre eux ne sont pas forcément français ou ukrainiens.
 
