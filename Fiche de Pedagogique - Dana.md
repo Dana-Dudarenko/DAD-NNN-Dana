@@ -120,6 +120,37 @@ Je pense qu'une ou deux vidéos, quatre sites, un jeu et un bot mail pourraient 
 
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
+### 25/11/2026
+
+- **Ce que j'ai fait :**
+
+Aujourd’hui, j’ai mis à jour mon scénario et j’ai commencé à travailler sur une animation 3D que je voudrais utiliser comme logo pour l’un des sites. J’ai également commencé à créer l’un des sites. Il s’agira d’un site gouvernemental officiel, inspiré des sites officiels des gouvernements ukrainien et français.
+
+![Sceenshot 1](images/screenshot1.png)
+![Sceenshot 1](images/screenshot2.png)
+
+J’ai créé un logo officiel pour ce site, en m’inspirant du style graphique typique des logos institutionnels ukrainiens.
+
+![Concept art 4](images/consept-art4.PNG)
+
+J’ai aussi demandé à un ami s’il aimerait participer à mon ARG. Je vais créer un site/forum pour les membres d’une communauté conspirationniste (IPCSS), et j’aurai besoin d’utilisateurs actifs avec des personnalités bien définies. Je me suis dit que le plus simple serait de demander à des amis que je connais déjà et auxquels j’ai facilement accès, de m’inspirer de leur personnalité et de leur demander conseil pour créer des personnages intéressants dans cet univers alternatif. En gros, ce seront des versions alternatives d’eux-mêmes, mais il faut imaginer que la plupart d’entre eux ne sont pas forcément français ou ukrainiens.
+
+- **Problèmes rencontrés :**
+
+J’ai un problème avec Blender. Soit le logiciel bugue complètement, soit c’est moi qui suis stupide. J’ai téléchargé la dernière version de Blender et maintenant tout fonctionne correctement, mais je devrai peut-être regarder quelques tutoriels sur YouTube pour apprendre à animer des yeux. Si possible, je voudrais éviter de créer un œil hyperréaliste avec 10 000 000 de polygones super mega HD qui ferait prendre feu à mon ordi.
+
+Autre chose : le codage me prend plus de temps parce que j’ai décidé de ne pas utiliser l’IA pour tout faire à ma place. J’essaie de coder moi-même, de chercher des exemples de code sur Internet, de demander des conseils ou des explications à l’IA si nécessaire, et de noter tout le processus dans mon carnet. C’est beaucoup plus long, mais j’apprends vraiment des choses et je comprends ce que je fais. Comme ça, quand quelque chose ne fonctionne plus, je sais quoi et pourquoi.
+
+- **Prochaine étape :**
+
+Il me reste à écrire et à ajouter du texte ainsi qu’une autre image sur le site. Je dois aussi terminer et faire le rendu de l’animation, puis la convertir en GIF. Je vais peut-être encore apporter quelques modifications à mon logo pour S3AOU.
+
+Je dois aussi commencer à créer les autres sites.
+
+- **Captures / liens :**
+  - Dossier 
+  [Base theoretique/Scenario](https://github.com/Dana-Dudarenko/DAD-NNN-Dana/blob/main/Base%20theoretique%20-%20Scenario.md)
+
 ### 24/11/2026
 
 - **Ce que j'ai fait :**
