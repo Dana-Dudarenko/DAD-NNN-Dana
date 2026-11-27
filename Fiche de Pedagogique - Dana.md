@@ -120,6 +120,34 @@ Je pense qu'une ou deux vidéos, quatre sites, un jeu et un bot mail pourraient 
 
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
+### 27/11/2026
+
+- **Ce que j'ai fait :**
+
+Aujourd'hui, j'ai travaillé sur les concept arts et la maquette du site des théoriciens du complot. Cela va m'aider, pendant la création du site lui-même, à savoir exactement quels textes je dois écrire, quels boutons je dois placer et où, quelles couleurs utiliser (approximativement), ainsi que quelles images, illustrations et animations je dois préparer.
+
+![Concept art 5](images/consept-art5.png)
+![Concept art 6](images/consept-art6.png)
+![Concept art 7](images/consept-art7.png)
+
+Je regrette d'avoir commencé à travailler sur le site officiel hier, car aujourd'hui, je me suis rendu compte que beaucoup trop de choses n'avaient pas été réfléchies ni planifiées. Je vais probablement créer une maquette, puis refaire le site.
+
+J'ai également continué à travailler sur l'animation 3D. J'ai trouvé un bon tutoriel pour animer des yeux.
+
+![Screenshot 3](images/screenshot3.png)
+
+- **Problèmes rencontrés :**
+
+Je ne me sens pas à l'aise dans cette salle. Il y a quelque chose qui ne va pas avec la lumière, la tension dans l'air froid et le fait qu'il y ait autant de personnes ici. Je ne peux donc pas me cogner la tête contre le mur quand quelque chose ne fonctionne pas (c'est une partie importante du processus), sans parler du fait que quelqu'un ouvre et ferme constamment cette put♥in de porte. Je n'arrive pas à me concentrer ici et je préfère travailler chez moi. J'ai vraiment l'impression de perdre trop de temps ici.
+
+Je n'ai pas rencontré de problèmes techniques, à part ce qui s'est passé avec le site officiel.
+
+- **Prochaine étape :**
+
+Pour le prochain cours, j'espère pouvoir passer à la réalisation et, dans l'idéal, terminer au moins deux des quatre sites. Je dois encore comprendre comment créer le bot mail, faire les vidéos et développer le jeu.
+
+- **Captures / liens :**
+
 ### 25/11/2026
 
 - **Ce que j'ai fait :**
