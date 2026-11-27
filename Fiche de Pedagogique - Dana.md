@@ -126,9 +126,9 @@ Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
 Aujourd'hui, j'ai travaillé sur les concept arts et la maquette du site des théoriciens du complot. Cela va m'aider, pendant la création du site lui-même, à savoir exactement quels textes je dois écrire, quels boutons je dois placer et où, quelles couleurs utiliser (approximativement), ainsi que quelles images, illustrations et animations je dois préparer.
 
-![Concept art 5](images/consept-art5.png)
-![Concept art 6](images/consept-art6.png)
-![Concept art 7](images/consept-art7.png)
+![Concept art 5](images/consept-art5.PNG)
+![Concept art 6](images/consept-art6.PNG)
+![Concept art 7](images/consept-art7.PNG)
 
 Je regrette d'avoir commencé à travailler sur le site officiel hier, car aujourd'hui, je me suis rendu compte que beaucoup trop de choses n'avaient pas été réfléchies ni planifiées. Je vais probablement créer une maquette, puis refaire le site.
 
